@@ -1,0 +1,87 @@
+body{
+    font-family: sans-serif;
+}
+.table{
+    width: 500px;
+    height: 100%;
+    padding: 5px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.table h1{
+    color: rgb(7, 7, 59);
+}
+
+.table p{
+    text-align: justify;
+}
+
+.table #contact{
+    margin-top: 15px;
+    padding: 10px 25px;
+    border-radius: 20px;
+    background-color: rgb(7, 7, 59);
+    color: white;
+    border-color: white;
+    cursor:pointer;
+}
+
+.table .download{
+    display: flex;
+    color: rgb(7, 7, 59);
+    cursor: pointer;
+}
+
+.table .download h5{
+    font-size: 13.5px;
+}
+
+.icon{
+    text-align: center;
+}
+
+.icon .icon_button{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: rgb(7, 7, 59);
+    border-color: rgb(7, 7, 59);
+    color: white;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.table .foto{
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.table #default{
+    width: 400px;
+    margin: auto;
+}
+
+.table h4,h5{
+    text-align: center;
+    color: rgb(7, 7, 59);
+}
+
+.table .identity h4{
+    font-size: 18px;
+    font-weight: 1200;
+}
+.table .identity h5{
+    font-size: 15px;
+}
+.table .identity{
+    margin: auto;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    background-color: whitesmoke;
+    width: 397px;
+    height: 100px;
+    box-shadow: 0 0 5px black;
+}
+
